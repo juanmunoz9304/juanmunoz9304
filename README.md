@@ -1,5 +1,5 @@
-### Hi there 👋
-## Welcome to my repo.
+## Hi there 👋
+### Welcome to my repo.
 <!--
 **juanmunoz9304/juanmunoz9304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
